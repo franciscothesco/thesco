@@ -1,0 +1,2 @@
+# thesco
+Um eterno aprendiz
